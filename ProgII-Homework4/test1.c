@@ -1,5 +1,3 @@
-/*akridas 1581
- * garagounis 1589*/
 
 #include "shrmem.h"
 #include <stdio.h>
