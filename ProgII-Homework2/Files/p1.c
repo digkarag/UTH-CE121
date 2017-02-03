@@ -1,7 +1,3 @@
-//Akridas Dimitris 1581
-//Garagounis Dimitris 1589
-
-
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
