@@ -1,6 +1,4 @@
 /* Tilefonikos Katalogos me xrisi arxeion */
-/*	Akridas_1581 Garagounis_1589	*/
-
 
 #include <fcntl.h>
 #include <stdio.h>
